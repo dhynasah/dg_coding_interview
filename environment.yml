@@ -1,0 +1,12 @@
+name: dg_coding_interview
+channels:
+  - conda-forge
+  - default
+  - bioconda
+dependencies:
+  - python >=3.8
+  - plotly
+  - pandas
+  - openpyxl
+  - scipy
+  - python-kaleido
